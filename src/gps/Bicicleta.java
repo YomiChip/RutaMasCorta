@@ -13,6 +13,7 @@ public class Bicicleta {
         String marca = "Orbea";
     }
     
+
     
     public static void km(int [] camino1, int [] camino2, int [] camino3) {
     	int sum1 = 0;
@@ -32,6 +33,8 @@ public class Bicicleta {
     public static String rutaCorta(int [] camino1, int [] camino2, int [] camino3)
     {
        
+
+    
     	
     	int sum1 = 0;
         int sum2 = 0;
