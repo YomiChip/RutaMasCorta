@@ -17,11 +17,7 @@ public class Bicicleta {
     {
         
     	
-    	/*int sum1,sum2, sum3,i;
-        for(sum1= 0, i= camino1.length - 1; 0 <= i; sum1+= camino1[i--]);
-        for(sum2= 0, i= camino2.length - 1; 0 <= i; sum2+= camino2[i--]);
-        for(sum3= 0, i= camino3.length - 1; 0 <= i; sum3+= camino3[i--]);
-        */
+    	
     	int sum1 = 0;
         int sum2 = 0;
         int sum3 = 0;
